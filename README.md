@@ -6,6 +6,7 @@
 + pinia
 + cypress
 + jest
++ rxjs
 
 ## 后台
 
